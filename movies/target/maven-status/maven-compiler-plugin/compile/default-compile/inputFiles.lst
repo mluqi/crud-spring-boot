@@ -1,0 +1,6 @@
+/home/mohammad-luqi/crud-app-springboot/movies/src/main/java/com/example/movies/MoviesApplication.java
+/home/mohammad-luqi/crud-app-springboot/movies/src/main/java/com/example/movies/config/WebConfig.java
+/home/mohammad-luqi/crud-app-springboot/movies/src/main/java/com/example/movies/controller/MovieController.java
+/home/mohammad-luqi/crud-app-springboot/movies/src/main/java/com/example/movies/model/Movie.java
+/home/mohammad-luqi/crud-app-springboot/movies/src/main/java/com/example/movies/repository/MovieRepository.java
+/home/mohammad-luqi/crud-app-springboot/movies/src/main/java/com/example/movies/service/MovieService.java
