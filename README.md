@@ -1,11 +1,6 @@
-# crud-movie-collection
-
-Berikut adalah contoh file `README.md` yang mencakup langkah-langkah untuk **meng-clone** repository, **menginisialisasi backend** dan **frontend**, serta **menjalankan** keduanya:
-
-```markdown
 # Movie Collection CRUD Application
 
-This project contains both the backend (Spring Boot) and frontend (Vue.js) for a Movie Collection CRUD application.
+This project contains both the backend (Spring Boot) and frontend (Vue.js) and Tailwind for a Movie Collection CRUD application.
 
 ## Table of Contents
 1. [Prerquisites](#prerequisites)
